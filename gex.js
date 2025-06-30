@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Copyright (c) 2011-2013 Richard Rodger, MIT License, https://github.com/rjrodger/patrun */
 "use strict";
 
